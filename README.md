@@ -1,4 +1,4 @@
-# Simple VPS - <i>VPN</i>
+# Simple VPS - VPN
 Set up instructions of a simple ssh connection to brows the web through a VPS.
 This article contains instructions on how to set up a connection
 to a Linux virtual private server in order to use it as a somewhat 
